@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bmw M4 Dtm - 2017
+* source:	https://sketchfab.com/3d-models/bmw-m4-dtm-2017-40ecf3aaba714fe19d3043065536681c
+* author:	InReality Solutions (https://sketchfab.com/inreality)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bmw M4 Dtm - 2017" (https://sketchfab.com/3d-models/bmw-m4-dtm-2017-40ecf3aaba714fe19d3043065536681c) by InReality Solutions (https://sketchfab.com/inreality) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
