@@ -1,0 +1,11 @@
+Model Information:
+* title:	PPSH41 Gun
+* source:	https://sketchfab.com/3d-models/ppsh41-gun-8e79930aab0a4020a3e832e691f868de
+* author:	VincentGoeminne (https://sketchfab.com/mygoldfish)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PPSH41 Gun" (https://sketchfab.com/3d-models/ppsh41-gun-8e79930aab0a4020a3e832e691f868de) by VincentGoeminne (https://sketchfab.com/mygoldfish) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
